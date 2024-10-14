@@ -1,6 +1,7 @@
 langchain
 ipykernel
 langchain_community
+pypdf
 bs4
 wikipedia
 langchain-text-splitters
@@ -8,9 +9,16 @@ lxml
 langchain_openai
 langchain_groq
 transformers
+langchain_huggingface
 langchain-chroma>=0.1.2
 streamlit
+langsmith
+faiss-cpu
+faiss-gpu
 arxiv
 duckduckgo-search
+youtube_transcript_api
+validators
+pytube
 numexpr
 scrapy

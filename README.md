@@ -16,11 +16,10 @@ Projects Details with Gen AI
 - Youtube video and Website url,Text summarization => Completed
 - Text to math problem solver => Completed
 - Chatbot which interacts with SQL => Skip (we dont need)
-- Pdf Query RAG with Astradb(datastax)
-- Deployment GEN AI apps in streamlit
-- Deploying AI with AWS
+- Pdf Query RAG with Astradb(datastax) => Completed
+- Deployment GEN AI apps in streamlit => completed
+- Generative AI with AWS
 
-Mini Projects
-Langchain+ Typescript, NextJS:> [!WARNING]
+MultiModal Chatbot (Major Project) -> Langchain+ Typescript, Vite(Magic UI, nyxbui), OpenCLip, Datastax, Nodejs, Express, PostgreSQL, prisma, Clerk+webhook, cheerio, huggingface, groq-sdk, @xenova, AWS, cloudflare workers
 
 # gen-ai-private
